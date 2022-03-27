@@ -1,0 +1,5 @@
+- 👋 Hi, I’m George
+- 👀 I’m interested in fishing, and learning new tech.
+- 🌱 I’m currently learning HTML, CSS, Javascript.
+- 💞️ I’m looking to collaborate on programming
+- 📫 How to reach me...send me a message on twitter.com/jaydensdad2006
